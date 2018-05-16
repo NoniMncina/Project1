@@ -1,0 +1,11 @@
+(deffacts initial-facts "some initial facts" 
+
+(item (item1) (cola) ((8.50)(d?n2))) 
+
+(item (item2) (sweet) ((12.50) (d?n2))) 
+
+(item (item3) (orange) ((10.00)(double))) 
+
+(item (item4) (chocolate) (15.00)) 
+
+) 
